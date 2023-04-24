@@ -1,4 +1,6 @@
 # 💫 About Me:
+[![](https://visitcount.itsvg.in/api?id=msbeden&icon=0&color=9)](https://visitcount.itsvg.in)
+
 🔭 I’m currently working on .Net Core, Xamarin, Backend Developer<br>🌱 I’m currently vue.js learning
 
 
@@ -11,8 +13,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=msbeden&theme=swift&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=msbeden&theme=swift&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=msbeden&theme=swift&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=msbeden&icon=0&color=9)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
