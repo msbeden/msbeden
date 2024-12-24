@@ -1,7 +1,7 @@
 # 💫 About Me:
 [![](https://visitcount.itsvg.in/api?id=msbeden&icon=0&color=9)](https://visitcount.itsvg.in)
 
-🔭 I’m currently working on .Net Core, Xamarin, Backend Developer<br>🌱 I’m currently vue.js learning
+🔭 I’m currently working on .Net Core, Entity Framework, Resfull API, RabbitMQ, Redis, Elastic Search, Backend Developer<br>🌱 I’m currently vue.js learning
 
 
 ## 🌐 Socials:
