@@ -6,7 +6,7 @@ I am a Software Engineer focused on designing and building high-performance, mai
 
 ---
 
-### 🛠️ Tech Stack & Ecosystem
+### 🛠️️ Tech Stack & Ecosystem
 
 **Backend & Architecture**  
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -37,11 +37,11 @@ I am a Software Engineer focused on designing and building high-performance, mai
 
 ### 📌 Core Competencies & Engineering Focus
 
-* **Enterprise Backend Solutions:** Designing resilient RESTful APIs, business workflows, and modular architectures for ERP/MRP systems[cite: 1, 2, 3].
-* **System Architecture:** Implementing Clean Architecture, Domain-Driven Design (DDD), CQRS pattern, and SOLID principles[cite: 1].
-* **Data Modeling & Optimization:** Query performance tuning, index strategies, and schema modeling with MSSQL, PostgreSQL, and EF Core (Code-First)[cite: 1, 2].
-* **Caching & Performance:** Mitigating database bottlenecks using in-memory distributed caching via Redis[cite: 1, 2].
-* **Testing & Quality Assurance:** Ensuring code reliability through unit and integration testing (xUnit)[cite: 1].
+* **Enterprise Backend Solutions:** Designing resilient RESTful APIs, business workflows, and modular architectures for ERP/MRP systems.
+* **System Architecture:** Implementing Clean Architecture, Domain-Driven Design (DDD), CQRS pattern, and SOLID principles.
+* **Data Modeling & Optimization:** Query performance tuning, index strategies, and schema modeling with MSSQL, PostgreSQL, and EF Core (Code-First).
+* **Caching & Performance:** Mitigating database bottlenecks using in-memory distributed caching via Redis.
+* **Testing & Quality Assurance:** Ensuring code reliability through unit and integration testing (xUnit).
 
 ---
 
