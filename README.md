@@ -35,6 +35,20 @@ I am a Software Engineer focused on designing and building high-performance, mai
 
 ---
 
+### 📱 Published Projects
+
+**Dini Ajandam**: An offline-first Flutter mobile app, live on Google Play and the App Store, for organizing daily worship and the religious calendar.
+- Local-first data with Hive, synced to Cloud Firestore after sign-in (cooldown + debounce to keep sync costs under control)
+- Authentication with Firebase Auth (email, Google, Apple)
+- Subscriptions via RevenueCat and monetization with AdMob (banner, interstitial, rewarded)
+- Local notifications for calendar reminders
+- Stack: Flutter, Dart, Provider, Hive, Firebase, RevenueCat, AdMob
+
+[![Google Play](https://img.shields.io/badge/Google_Play-Dini_Ajandam-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.alazdevelopment.diniajandam)
+[![App Store](https://img.shields.io/badge/App_Store-Dini_Ajandam-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/dini-ajandam/id6769323705)
+
+---
+
 ### 📌 Core Competencies & Engineering Focus
 
 * **Enterprise Backend Solutions:** Designing resilient RESTful APIs, business workflows, and modular architectures for ERP/MRP systems.
